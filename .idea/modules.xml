@@ -4,10 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codelibrary.iml" filepath="$PROJECT_DIR$/Codelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-tool-utils/android-tool-utils.iml" filepath="$PROJECT_DIR$/android-tool-utils/android-tool-utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-tool-utils/android-tool-utils.iml" filepath="$PROJECT_DIR$/android-tool-utils/android-tool-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/codelibrary.iml" filepath="$PROJECT_DIR$/codelibrary.iml" />
     </modules>
   </component>
 </project>
